@@ -1,0 +1,3 @@
+Name: Kumari Sakshi
+Skills: HTML, CSS, JS, ReactJS
+Email: kumarisakshi2210@gmail.com
